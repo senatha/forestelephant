@@ -1,0 +1,114 @@
+.container {
+    width:1080px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+}
+
+.two_col {
+    width: 520px;
+    margin:10px;
+}
+
+
+
+taxonomy {   
+    width: 520px;
+    margin:10px;
+    float: left;
+    
+}
+
+.tax2 {
+    width: 520px;
+    margin:10px;
+    float: right;
+    margin-top: -200
+}
+
+ecology {
+    width: 520px;
+    margin:10px;
+    float:right;
+    margin-top: 450px;
+   
+    
+}
+eco2 {
+    width: 520px;
+    margin:10px;
+    float: right;
+
+}
+
+.biology {
+    width: 520px;
+    margin:10px;
+    float: left;
+}
+
+bio2 {
+    width: 520px;
+    margin:10px;
+    float: left;
+    
+}
+
+.behavior {
+    width: 520px;
+    margin: 10px;
+    float:right;
+  ;
+} 
+
+.beh2 {
+    width: 520px;
+    margin:10px;
+    float: left;
+}
+
+body {
+	background-color:darkseagreen;
+	margin: 0;
+	margin-top: 100px;
+} 
+
+p {
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color:whitesmoke;
+    letter-spacing: 12px;
+    font-size: 3em
+}
+
+.title {
+   font-family: 'Poppins', sans-serif;
+   color: whitesmoke;
+}
+
+.text_on_image { 
+  width: 500px;
+  text-align: center;
+  
+  position: absolute; 
+  
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  
+}
+
+h1 {
+  font-size: 6em;
+  color:whitesmoke;
+  font-family: 'Poppins', sans-serif;
+
